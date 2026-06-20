@@ -1,0 +1,7 @@
+# Robots.txt for Aarunya 2.0 - MITS Gwalior
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://aarunya.in/sitemap.xml
