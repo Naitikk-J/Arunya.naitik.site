@@ -50,3 +50,6 @@ coverage
 
 # Misc
 *.tsbuildinfo
+.env.*
+!.env.example
+!.env.sample
